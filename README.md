@@ -17,3 +17,8 @@ Pontos Reiterados:
 **Minimizar Alarme:** Para evitar pânico, os números de mortes e casos confirmados serão exibidos em tamanhos menores, reduzindo o impacto visual e emocional dessas informações.
 
 Após a reunião, a equipe de analistas de dados iniciou a criação de uma Dashboard que fosse simples, clara e eficiente, pronta para ser apresentada no jornal.
+
+
+## Resultados
+
+Com a Dashboard pronta, é possível notar que os números tanto de mortes quanto de casos confirmados segue em crescente. O Estado de Minas Gerais é o segundo com o maior número de casos confirmados, ficando atrás apenas de São Paulo. O que nos mostra uma necessidade de reforçar os protocolos de segurança. Com metade da população de São Paulo, observa-se que o crescimento no número de casos segue uma constante, pois Minas possui algo em torno da metade dos casos do estado paulista. Outra informação bem relevante é o percentual referente à quantidade de pessoas vacinadas com a segunda dose. Apenas 25% da população, logo espera-se que os casos sigam aumentando. A média móvel em comparação com os casos diários nos mostram também que o crescimento está estável, sem picos, o que é um bom sinal, pois o número de pessoas vacinadas ainda tende a crescer.
